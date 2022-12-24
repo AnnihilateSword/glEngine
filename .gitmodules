@@ -1,3 +1,6 @@
 [submodule "glEngine/vendor/spdlog"]
 	path = glEngine/vendor/spdlog
 	url = git@github.com:gabime/spdlog.git
+[submodule "glEngine/vendor"]
+	path = glEngine/vendor
+	url = git@github.com:gabime/spdlog.git
